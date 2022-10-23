@@ -1,6 +1,6 @@
 {
   "name": "khale-npm-publish",
-  "version": "1.0.2",
+  "version": "1.0.2-beta.0",
   "description": "say hello to npm",
   "main": "index.js",
   "scripts": {
