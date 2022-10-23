@@ -1,0 +1,22 @@
+{
+  "name": "khale-npm-publish",
+  "version": "1.0.1",
+  "description": "say hello to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khale913/publish-npm_test.git"
+  },
+  "keywords": [
+    "khale913"
+  ],
+  "author": "kelton hale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khale913/publish-npm_test/issues"
+  },
+  "homepage": "https://github.com/khale913/publish-npm_test#readme"
+}
